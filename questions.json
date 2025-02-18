@@ -1,0 +1,161 @@
+[
+    {
+        "question": "Question 1",
+        "coordinates": {
+            "start_x": 31.0,
+            "start_y": 161.0,
+            "end_x": 1388.0,
+            "end_y": 272.0
+        },
+        "cases": [
+            {
+                "cases_coordinates": {
+                    "start_x": 21.0,
+                    "start_y": 274.0,
+                    "end_x": 61.0,
+                    "end_y": 316.0
+                },
+                "label_coordinates": {
+                    "start_x": 60.0,
+                    "start_y": 276.0,
+                    "end_x": 132.0,
+                    "end_y": 316.0
+                }
+            },
+            {
+                "cases_coordinates": {
+                    "start_x": 192.0,
+                    "start_y": 276.0,
+                    "end_x": 228.0,
+                    "end_y": 315.0
+                },
+                "label_coordinates": {
+                    "start_x": 228.0,
+                    "start_y": 278.0,
+                    "end_x": 320.0,
+                    "end_y": 316.0
+                }
+            },
+            {
+                "cases_coordinates": {
+                    "start_x": 357.0,
+                    "start_y": 278.0,
+                    "end_x": 399.0,
+                    "end_y": 316.0
+                },
+                "label_coordinates": {
+                    "start_x": 406.0,
+                    "start_y": 277.0,
+                    "end_x": 656.0,
+                    "end_y": 321.0
+                }
+            }
+        ]
+    },
+    {
+        "question": "Question 2",
+        "coordinates": {
+            "start_x": 21.0,
+            "start_y": 370.0,
+            "end_x": 1371.0,
+            "end_y": 421.0
+        },
+        "cases": [
+            {
+                "cases_coordinates": {
+                    "start_x": 21.0,
+                    "start_y": 423.0,
+                    "end_x": 62.0,
+                    "end_y": 461.0
+                },
+                "label_coordinates": {
+                    "start_x": 61.0,
+                    "start_y": 423.0,
+                    "end_x": 125.0,
+                    "end_y": 467.0
+                }
+            },
+            {
+                "cases_coordinates": {
+                    "start_x": 187.0,
+                    "start_y": 421.0,
+                    "end_x": 232.0,
+                    "end_y": 466.0
+                },
+                "label_coordinates": {
+                    "start_x": 232.0,
+                    "start_y": 422.0,
+                    "end_x": 304.0,
+                    "end_y": 468.0
+                }
+            },
+            {
+                "cases_coordinates": {
+                    "start_x": 359.0,
+                    "start_y": 423.0,
+                    "end_x": 402.0,
+                    "end_y": 471.0
+                },
+                "label_coordinates": {
+                    "start_x": 402.0,
+                    "start_y": 423.0,
+                    "end_x": 660.0,
+                    "end_y": 472.0
+                }
+            }
+        ]
+    },
+    {
+        "question": "Question 3",
+        "coordinates": {
+            "start_x": 12.0,
+            "start_y": 517.0,
+            "end_x": 1391.0,
+            "end_y": 622.0
+        },
+        "cases": [
+            {
+                "cases_coordinates": {
+                    "start_x": 21.0,
+                    "start_y": 634.0,
+                    "end_x": 64.0,
+                    "end_y": 672.0
+                },
+                "label_coordinates": {
+                    "start_x": 64.0,
+                    "start_y": 629.0,
+                    "end_x": 134.0,
+                    "end_y": 668.0
+                }
+            },
+            {
+                "cases_coordinates": {
+                    "start_x": 185.0,
+                    "start_y": 628.0,
+                    "end_x": 231.0,
+                    "end_y": 677.0
+                },
+                "label_coordinates": {
+                    "start_x": 231.0,
+                    "start_y": 627.0,
+                    "end_x": 311.0,
+                    "end_y": 678.0
+                }
+            },
+            {
+                "cases_coordinates": {
+                    "start_x": 355.0,
+                    "start_y": 627.0,
+                    "end_x": 398.0,
+                    "end_y": 678.0
+                },
+                "label_coordinates": {
+                    "start_x": 399.0,
+                    "start_y": 628.0,
+                    "end_x": 648.0,
+                    "end_y": 672.0
+                }
+            }
+        ]
+    }
+]
